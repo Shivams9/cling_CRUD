@@ -1,4 +1,4 @@
-# cling_CRUD
+# Django_CRUD_Example
  #SomeOutPut of this Projects
  
 ![insertion](https://user-images.githubusercontent.com/91686685/230036376-75b28044-16f6-476e-8180-74213b453444.JPG)
